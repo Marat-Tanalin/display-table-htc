@@ -1,1 +1,5 @@
-[display-table.htc](http://tanalin.com/en/projects/display-table-htc/) is a JavaScript polyfill library intended to emulate CSS properties of `display: table*` family in Internet Explorer 6 and 7 which do not have their native support.
+# display-table.htc
+
+JavaScript polyfill library that emulates `display: table*` CSS properties in Internet Explorer 6 and 7 which do not support these properties natively.
+
+See the project [webpage](http://tanalin.com/en/projects/display-table-htc/) for details.
